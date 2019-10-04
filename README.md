@@ -81,3 +81,22 @@ _Frase en cursiva_
 ### Asi se ve en la página:
 
 ![GitHub Logo](/imágenes/Alexelcapo.jpg)
+
+# Tablas
+
+### Asi se ve en Markdown:
+
+```
+| Elemento | Cantidad | Precio |
+| :------: | :------: | :----: |
+| Item 1   | 60       | 700€   |
+| Item 2   | 50      | 20€   |
+
+```
+
+### Asi se ve en la página:
+
+| Elemento | Cantidad | Precio |
+| :------: | :------: | :----: |
+| Item 1   | 60       | 700€   |
+| Item 2   | 20      | 60€   |
