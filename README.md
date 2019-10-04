@@ -28,7 +28,7 @@ _Frase en cursiva_
 
 ### Asi se ve en la página:
 
-_Frase en cursiva_ 
+_Frase en cursiva_
 
 **Frase en negrita**
 
@@ -68,3 +68,16 @@ _Frase en cursiva_
 ### Asi se ve en la página:
 
 [GitHub](http://github.com)
+
+# Imagenes
+
+### Asi se ve en Markdown:
+
+```
+![GitHub Logo](/imágenes/Alexelcapo.jpg)
+
+```
+
+### Asi se ve en la página:
+
+![GitHub Logo](/imágenes/Alexelcapo.jpg)
