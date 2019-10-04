@@ -62,7 +62,6 @@ _Frase en cursiva_
 
 ```
 [GitHub](http://github.com)
-
 ```
 
 ### Asi se ve en la página:
@@ -75,7 +74,6 @@ _Frase en cursiva_
 
 ```
 ![GitHub Logo](/imágenes/Alexelcapo.jpg)
-
 ```
 
 ### Asi se ve en la página:
@@ -91,7 +89,6 @@ _Frase en cursiva_
 | :------: | :------: | :----: |
 | Item 1   | 60       | 700€   |
 | Item 2   | 50      | 20€   |
-
 ```
 
 ### Asi se ve en la página:
@@ -100,3 +97,15 @@ _Frase en cursiva_
 | :------: | :------: | :----: |
 | Item 1   | 60       | 700€   |
 | Item 2   | 20      | 60€   |
+
+# Citas en bloque
+
+### Asi se ve en Markdown:
+
+```
+> Esto es una cita en bloque.
+```
+
+### Asi se ve en la página:
+
+> Esto es una cita en bloque.
