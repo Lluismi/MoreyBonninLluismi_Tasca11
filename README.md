@@ -109,3 +109,15 @@ _Frase en cursiva_
 ### Asi se ve en la página:
 
 > Esto es una cita en bloque.
+
+# Resaltado de código y sintaxis
+
+### Asi se ve en Markdown:
+
+```
+Esto es el codigo resaltado
+```
+
+### Asi se ve en la página:
+
+*Esto es el codigo sin resaltar*
