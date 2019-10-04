@@ -55,3 +55,16 @@ _Frase en cursiva_
 
 1. Elemento ordenado 1
 2. Elemento ordenado 2
+
+# Links
+
+### Asi se ve en Markdown:
+
+```
+[GitHub](http://github.com)
+
+```
+
+### Asi se ve en la página:
+
+[GitHub](http://github.com)
