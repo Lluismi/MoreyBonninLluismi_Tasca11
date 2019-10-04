@@ -137,3 +137,15 @@ Esto es el codigo resaltado
 ### Asi se ve en la página:
 
 *Esto es el codigo sin resaltar*
+
+### Funcionas pricipales de git
+
+> Git clone: Sirve para clonar un archivo de git y va seguido de la url del repositorio que deseamos clonar
+
+> Git add: Sirve para añadir ficheros al indice.
+
+>Git commit: Sirve para crear mensajes instantaneos permanentemente.
+
+>Git pull: Descarga y introduce los canvios desde el repositorio remoto va seguido de origin master.
+
+>Git push: Sirve para cargar todos los ficheros que están validados del local al repositorio remoto va seguido de origin master.
