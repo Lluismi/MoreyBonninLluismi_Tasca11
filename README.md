@@ -149,3 +149,5 @@ Esto es el codigo resaltado
 >Git pull: Descarga y introduce los canvios desde el repositorio remoto va seguido de origin master.
 
 >Git push: Sirve para cargar todos los ficheros que están validados del local al repositorio remoto va seguido de origin master.
+
+>Utilizo el caracrer codificado UTF-8 para este ejercicio
